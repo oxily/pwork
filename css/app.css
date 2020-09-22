@@ -1,0 +1,13 @@
+.toolbar{
+    background-color:black;
+}
+.tabbar{
+    background-color:black;
+}
+svg{
+    color: white;
+}
+.back-button__icon{     fill: white; }
+ons-carousel[fullscreen]{
+    height: 75%;   
+}
